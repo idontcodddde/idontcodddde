@@ -11,10 +11,10 @@
 ## Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,svelte,nuxtjs,vue,astro,go,git,linux,docker" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,svelte,nuxtjs,nextjs,vue,astro,go,git,docker" alt="Tech Stack Icons" />
 </p>
 
-* **Proficient in:** TypeScript, JavaScript, Python, Rust, React.js, SvelteKit, Nuxt.js, Vue, Astro, Git, Linux, Docker
+* **Proficient in:** TypeScript, JavaScript, Python, Rust, React.js, SvelteKit, Nuxt.js, Vue, Astro, Git, Docker
 * **Currently Learning:** Go (Golang)
 
 ---
