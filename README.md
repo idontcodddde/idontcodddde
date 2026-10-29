@@ -4,7 +4,7 @@
 ---
 
 ## Current Project: Retini
-* **Retini**: A dynamic games platform that loads and plays games directly from a custom JSON URL provided by the user. Check it out at [retini-services/Retini](https://github.com/retini-services/Retini).
+* **Phosium**: A proxying app with multiple different features for a variety of tasks mainly regarding proxying. check it out at the [phosium](https://github.com/idontcodddde/phosium) github repo
 
 ---
 
