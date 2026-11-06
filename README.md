@@ -11,7 +11,7 @@
 ---
 
 ## First Project: Aluben
-* **Aluben**: A Web proxy and my first project ever, picked up some traction and got kinda popular but i gave up on it check it out at [Aluben](https://aluben.org)
+* **Aluben**: A Web proxy and my first project ever, picked up some traction and got kinda popular but i gave up on it. check it out at [Aluben](https://aluben.org)
 ---
 ## Tech Stack & Skills
 
