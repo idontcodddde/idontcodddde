@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,svelte,nuxtjs,nextjs,vue,astro,go,git,docker" alt="Tech Stack Icons" />
 </p>
 
-* **Proficient in:** TypeScript, JavaScript, Python, React.js, SvelteKit, Nuxt.js, Vue, Astro, Git, Docker
+* **Proficient in:** TypeScript, JavaScript, Python, React.js, SvelteKit, Nuxt.js, nextjs, Vue, Astro, Git, Docker
 * **Currently Learning:** Go (Golang), rust
 
 ---
