@@ -3,7 +3,7 @@
 
 ---
 
-## Current Project: Retini
+## Current Project: Phosium
 * **Phosium**: A proxying app with multiple different features for a variety of tasks mainly regarding proxying. check it out at the [phosium](https://github.com/idontcodddde/phosium) github repo
 
 ---
